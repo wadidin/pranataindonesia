@@ -127,4 +127,7 @@
         </div><!-- /.flat-row -->
 
         <div id="flat-map">
+        
         </div><!-- /#flat-map -->
+
+        

@@ -156,6 +156,7 @@
     <script type="text/javascript" src="<?php echo base_url(); ?>assets/web/javascript/smoothscroll.js"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>assets/web/javascript/main.js"></script>
 
+    <!-- Google Map Javascript Codes -->
     <script src="http://maps.google.com/maps/api/js?key=AIzaSyAYWE4mHmR9GyPsHSOVZrSCOOljk8DU9B4"></script>
     <script type="text/javascript" src="<?php echo base_url(); ?>assets/web/javascript/gmap3.min.js"></script>
 
