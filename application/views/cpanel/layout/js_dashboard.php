@@ -1,27 +1,11 @@
-  
-  
-  <footer class="main-footer">
-    <div class="pull-right hidden-xs">
-      <b>All rights</b> reserved
-    </div>
-    <strong>Hak Cipta &copy; 2017 . <a href="<?php echo base_url(); ?>">STMIK Pranata Indonesia</a></strong>
-  </footer>
-
-</div>
-<!-- ./wrapper -->
 
 
-<!-- jQuery 2.2.3 -->
-<script src="<?php echo base_url(); ?>assets/cpanel/plugins/jQuery/jquery-2.2.3.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
 <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button);
 </script>
-
-<!-- Bootstrap 3.3.6 -->
-<script src="<?php echo base_url(); ?>assets/cpanel/bootstrap/js/bootstrap.min.js"></script>
 
 <!-- AdminLTE App -->
 <script src="<?php echo base_url(); ?>assets/cpanel/dist/js/app.min.js"></script>
@@ -31,14 +15,6 @@
 <script src="<?php echo base_url(); ?>assets/cpanel/dist/js/pages/dashboard.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="<?php echo base_url(); ?>assets/cpanel/dist/js/pages/dashboard2.js"></script>
-
-
-<!-- FastClick -->
-<script src="<?php echo base_url(); ?>assets/cpanel/plugins/fastclick/fastclick.js"></script>
-<!-- SlimScroll -->
-<script src="<?php echo base_url(); ?>assets/cpanel/plugins/slimScroll/jquery.slimscroll.min.js"></script>
-<!-- Sparkline -->
-<script src="<?php echo base_url(); ?>assets/cpanel/plugins/sparkline/jquery.sparkline.min.js"></script>
 
 <!-- Bootstrap WYSIHTML5 -->
 <script src="<?php echo base_url(); ?>assets/cpanel/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js"></script>
@@ -55,7 +31,4 @@
 <!-- Morris.js charts -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
 <script src="<?php echo base_url(); ?>assets/cpanel/plugins/morris/morris.min.js"></script>
-
-</body>
-</html>
 

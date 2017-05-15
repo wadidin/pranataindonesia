@@ -112,7 +112,8 @@ class cPanel extends CI_Controller {
 		
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/dashboard');
-		$this->load->view('cpanel/layout/footer1');
+		$this->load->view('cpanel/layout/footer');
+		$this->load->view('cpanel/layout/js_dashboard');
 	}
 
 
@@ -136,7 +137,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/menu');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 	//Menu Add
@@ -166,7 +167,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/menu_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 	//Menu Save
@@ -249,7 +250,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/menu_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 		
 	//Menu Delete
@@ -288,7 +289,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/artikel');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 
@@ -321,7 +322,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/artikel_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 
@@ -481,7 +482,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/artikel_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}	
 
 
@@ -526,7 +527,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/halaman');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 	
@@ -557,7 +558,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/halaman_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 
 	
@@ -638,7 +639,7 @@ class cPanel extends CI_Controller {
 
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/halaman_form');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}
 		
 	
@@ -672,7 +673,7 @@ class cPanel extends CI_Controller {
 		
 		$this->load->view('cpanel/layout/header', $data);
 		$this->load->view('cpanel/kontak');
-		$this->load->view('cpanel/layout/footer2');
+		$this->load->view('cpanel/layout/footer');
 	}			  
 		
 		
