@@ -47,7 +47,7 @@
 
     <!-- Pesan Error -->
       <?php if ($this->session->flashdata('status') == 'failed'): ?>
-        <div class="alert alert-danger alert-dismissible" align="center">
+        <div id="danger-alert" class="alert alert-danger alert-dismissible" align="center">
           <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
           username atau password salah !
         </div>
@@ -101,7 +101,12 @@
 <script src="<?php echo base_url(); ?>assets/cpanel/bootstrap/js/bootstrap.min.js"></script>
 <!-- Select2 -->
 <script src="<?php echo base_url(); ?>assets/cpanel/plugins/select2/select2.full.min.js"></script>
-
+<!-- page script -->
+<script>
+  $("#danger-alert").fadeTo(3000, 500).slideUp(500, function(){
+    $("#danger-alert").alert('close');
+});
+</script>
 
 </body>
 </html>
