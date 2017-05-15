@@ -15,7 +15,7 @@ Back End &nbsp;: AdminLTE
 <hr>
 
 <h3>Ekstras : </h3>
-1. Helper &nbsp; &nbsp; &nbsp; : my_helper(Login Session
+1. Helper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : my_helper(Login Session
 <br>
 2. Method Menu Class : Menu Li Class Active
 <hr>
