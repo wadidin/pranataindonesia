@@ -6,13 +6,13 @@ http://pranataindonesia.pe.hu/
 <hr>
 
 <h3>Theme : </h3>
-Front End : Cosine
+Front End &nbsp;: Cosine
 <br>
 Back End &nbsp; &nbsp;: AdminLTE
 <hr>
 
-<h3>Techniques &nbsp;: </h3>MVC
-<hr>
+<h3>Techniques : </h3>MVC
+<hr>&nbsp;
 
 <h3>Ekstras : </h3>
 1. Helper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: my_helper(Login Session)
@@ -21,7 +21,7 @@ Back End &nbsp; &nbsp;: AdminLTE
 <hr>
 
 
-Front End : <br>
+Front End &nbsp;: Cosine <br>
 
-Back End  : <br>
+Back End &nbsp; &nbsp;: AdminLTE <br>
 <hr>
