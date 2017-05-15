@@ -266,7 +266,7 @@
                                 <div class="iconbox">
                                     <div class="box-header">
                                         <div class="box-icon">
-                                            <a href="#"><i class="fa fa-id-card"></i></a>
+                                            <a href="#"><i class="fa fa-user"></i></a>
                                         </div>
                                         <a href="#"><h4 class="box-title">E-Alumni</h4></a>
                                     </div>
