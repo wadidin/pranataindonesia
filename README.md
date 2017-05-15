@@ -8,16 +8,16 @@ http://pranataindonesia.pe.hu/
 <h3>Theme : </h3>
 Front End : Cosine
 <br>
-Back End &nbsp;: AdminLTE
+Back End &nbsp; &nbsp;: AdminLTE
 <hr>
 
-<h3>Techniques : </h3>MVC
+<h3>Techniques &nbsp;: </h3>MVC
 <hr>
 
 <h3>Ekstras : </h3>
-1. Helper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : my_helper(Login Session
+1. Helper &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: my_helper(Login Session)
 <br>
-2. Method Menu Class : Menu Li Class Active
+2. Method Menu Class &nbsp;: Menu Li Class Active
 <hr>
 
 
