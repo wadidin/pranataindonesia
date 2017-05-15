@@ -13,8 +13,8 @@ Front End : Cosine
 <hr>
 
 <h3>Ekstras : </h3>
-<h4>1. Helper 			 : </h4>my_helper(Login Session)
-<h4>2. Method Menu Class : </h4>Menu Li Class Active
+1. Helper 			 : my_helper(Login Session)
+2. Method Menu Class : Menu Li Class Active
 <hr>
 
 
