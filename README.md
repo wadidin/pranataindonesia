@@ -2,7 +2,7 @@
 <hr>
 
 <h3>Demo :</h3>
-[Lihat Web](http://http://pranataindonesia.esy.es/){:target="_blank"}
+This is [a link](http://example.com){:target="_blank"} that opens in a new window.
 <hr>
 
 <h3>cPanel :</h3>
