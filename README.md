@@ -8,11 +8,12 @@ http://pranataindonesia.pe.hu/
 <h3>Theme : </h3>
 Front End &nbsp;&nbsp;: Cosine
 <br>
-![front](https://cloud.githubusercontent.com/assets/13658670/26519970/1b04cfb4-42f4-11e7-8c28-3e52229bf4e5.PNG)
+https://cloud.githubusercontent.com/assets/13658670/26519970/1b04cfb4-42f4-11e7-8c28-3e52229bf4e5.PNG
 <br><br>
 Back End &nbsp; &nbsp;: AdminLTE
 <br>
-![back](https://cloud.githubusercontent.com/assets/13658670/26519977/3a6e4dd0-42f4-11e7-8fca-f113ebbcaefc.PNG)
+https://cloud.githubusercontent.com/assets/13658670/26519977/3a6e4dd0-42f4-11e7-8fca-f113ebbcaefc.PNG
+<br><br>
 <hr>
 
 <h3>Techniques : </h3>MVC
