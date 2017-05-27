@@ -4,13 +4,14 @@
 <h3>Demo :</h3>
 http://pranataindonesia.esy.es/
 <hr>
-<br>
+
 <h3>cPanel :</h3>
 http://pranataindonesia.esy.es/cpanel/
-<br>
+<br><br>
 username : admin<br>
 username : terserah<br>
-
+<hr>
+<br><br>
 
 Front End : <br>
 ![front](https://cloud.githubusercontent.com/assets/13658670/26520179/e02c9dbe-42f7-11e7-85c9-25fff257892b.PNG) <br><br>
