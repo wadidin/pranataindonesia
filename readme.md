@@ -12,7 +12,7 @@ Front End &nbsp;&nbsp;: Cosine
 <br><br>
 Back End &nbsp; &nbsp;: AdminLTE
 <br>
-f
+
 <br><br>
 <hr>
 
