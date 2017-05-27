@@ -8,7 +8,7 @@ http://pranataindonesia.esy.es/
 <h3>Theme : </h3>
 Front End &nbsp;&nbsp;: Cosine
 <br>
-![depan](https://cloud.githubusercontent.com/assets/13658670/26520113/862c710a-42f6-11e7-8585-94a37144c5d0.PNG)
+![depan](https://cloud.githubusercontent.com/assets/13658670/26520113/862c710a-42f6-11e7-8585-94a37144c5d0.PNG) 
 <br><br>
 Back End &nbsp; &nbsp;: AdminLTE
 <br>
