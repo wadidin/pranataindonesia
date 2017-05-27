@@ -26,9 +26,3 @@ Back End &nbsp; &nbsp;: AdminLTE
 <br>
 2. Method Menu Class &nbsp;&nbsp;: Menu Li Class Active
 <hr>
-
-
-Front End &nbsp;&nbsp;: Cosine <br>
-
-Back End &nbsp; &nbsp;: AdminLTE <br>
-<hr>
