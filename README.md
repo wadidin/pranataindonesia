@@ -2,11 +2,11 @@
 <hr>
 
 <h3>Demo :</h3>
-<a href="http://pranataindonesia.esy.es/" target="_blank">Lihat Website</a>
+[Lihat Web](http://http://pranataindonesia.esy.es/){:target="_blank"}
 <hr>
 
 <h3>cPanel :</h3>
-<a href="http://pranataindonesia.esy.es/cpanel/" target="_blank">Lihat cPanel</a>
+[Lihat cPanel](http://http://pranataindonesia.esy.es/cpanel/){:target="_blank"}
 <br><br>
 username : admin<br>
 username : terserah<br>
