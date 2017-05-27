@@ -2,11 +2,11 @@
 <hr>
 
 <h3>Demo :</h3>
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
+<a href="http://pranataindonesia.esy.es/" target="_blank">Lihat Website</a>
 <hr>
 
 <h3>cPanel :</h3>
-[Lihat cPanel](http://http://pranataindonesia.esy.es/cpanel/){:target="_blank"}
+<a href="http://pranataindonesia.esy.es/cpanel/" target="_blank">Lihat cPanel Website</a>
 <br><br>
 username : admin<br>
 username : terserah<br>
